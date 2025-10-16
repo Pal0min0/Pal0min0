@@ -1,22 +1,35 @@
-![Banner](https://co.pinterest.com/pin/850828554641879649/)
+<h1 align="center">👋 ¡Hi there, Soy Santiago Palomino!</h1>
 
-<h1 align="center">👋 ¡Hola, soy Santiago Palomino!</h1>
+![Banner](https://co.pinterest.com/pin/850828554641879649/)
 
 <p align="center">
 💻 Desarrollador web en formación<br>
 🎨 Apasionado por el diseño, la música y los proyectos creativos<br>
-🚀 Aprendiendo los lenguajes de programacion posibles<br>
+🚀 Aprendiendo los lenguajes de programación posibles<br>
 😼 Me gusta crear cosas únicas
 </p>
+
+---
+
+### 😺 Sobre mí
+
+Soy un desarrollador web en formación con una gran pasión por el **diseño visual**, la **música** y los **proyectos creativos**.  
+Me encanta combinar el arte con la tecnología — desde crear interfaces limpias hasta imaginar mundos y personajes únicos.  
+Siempre busco aprender algo nuevo, experimentar con estilos diferentes y mejorar en cada proyecto que hago.  
+
+🧩 Actualmente estoy aprendiendo **React**, **Java** y **Python**,  
+mientras fortalezco mis habilidades en **HTML, CSS y MySQL**.  
+
+🎧 En mis tiempos libres dibujo, diseño y desarrollo ideas que mezclan mis intereses por el rock, los videojuegos y el universo Vocaloid (sí, Miku 💙).
 
 ---
 
 ### 📁 Proyectos Destacados
 
 - 🎮 [**Tienda VideoJuegos**](#) — Tienda virtual de venta de juegos  
-- 🏙️ [**Manzanas del Cuidado**](#) — sistema de servicios en localidades  
+- 🏙️ [**Manzanas del Cuidado**](#) — Sistema de servicios en localidades  
 - 📡 [**TensionRadar**](#) — IA que analiza y predice protestas sociales  
-- 🎬 [**Tarjetas YT**](#) — sistema de tarjetas inspiradas en videoclips  
+- 🎬 [**Tarjetas YT**](#) — Sistema de tarjetas inspiradas en videoclips  
 
 ---
 
@@ -37,7 +50,7 @@
 ### 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https:https://github.com/Pal0min0" target="_blank">
+  <a href="https://github.com/Pal0min0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/santiagopalominope%C3%B1aloza/" target="_blank">
