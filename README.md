@@ -1,8 +1,10 @@
 <h1 align="center">👋 ¡Hi there, Soy Santiago Palomino!</h1>
 
-![Banner](https://i.pinimg.com/736x/19/f4/1c/19f41c5993d330b0b05e23774b300ce7.jpg)
-
 <p align="center">
+![Banner](https://i.pinimg.com/736x/19/f4/1c/19f41c5993d330b0b05e23774b300ce7.jpg)
+</p>
+
+<p>
 💻 Desarrollador web en formación<br>
 🎨 Apasionado por el diseño, la música y los proyectos creativos<br>
 🚀 Aprendiendo los lenguajes de programación posibles<br>
