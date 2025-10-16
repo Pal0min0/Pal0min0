@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hi there, Soy Santiago Palomino!</h1>
+<h1 align="center">👋 ¡Hi there, Soy Santiago Palomino! @Pal0min0</h1>
 
 <p align="center">
    <img src="https://i.pinimg.com/736x/19/f4/1c/19f41c5993d330b0b05e23774b300ce7.jpg" alt="Banner" style="border-radius: 12px; width: 100%; max-width: 1000px;" />
