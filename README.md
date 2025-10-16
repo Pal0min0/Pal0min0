@@ -4,15 +4,6 @@
    <img src="https://i.pinimg.com/736x/19/f4/1c/19f41c5993d330b0b05e23774b300ce7.jpg" alt="Banner" style="border-radius: 12px; width: 100%; max-width: 1000px;" />
 </p>
 
-<p>
-💻 Desarrollador web en formación<br>
-🎨 Apasionado por el diseño, la música y los proyectos creativos<br>
-🚀 Aprendiendo los lenguajes de programación posibles<br>
-😼 Me gusta crear cosas únicas
-</p>
-
----
-
 ### 😺 Sobre mí
 
 Soy un desarrollador web en formación con una gran pasión por el **diseño visual**, la **música** y los **proyectos creativos**.  
@@ -23,6 +14,15 @@ Siempre busco aprender algo nuevo, experimentar con estilos diferentes y mejorar
 mientras fortalezco mis habilidades en **HTML, CSS y MySQL**.  
 
 🎧 En mis tiempos libres dibujo, diseño y desarrollo ideas que mezclan mis intereses por el rock, los videojuegos y el universo Vocaloid (sí, Miku 💙).
+
+---
+
+<p>
+💻 Desarrollador web en formación<br>
+🎨 Apasionado por el diseño, la música y los proyectos creativos<br>
+🚀 Aprendiendo los lenguajes de programación posibles<br>
+😼 Me gusta crear cosas únicas
+</p>
 
 ---
 
