@@ -8,12 +8,7 @@
 
 Soy un desarrollador web en formación con una gran pasión por el **diseño visual**, la **música** y los **proyectos creativos**.  
 Me encanta combinar el arte con la tecnología — desde crear interfaces limpias hasta imaginar mundos y personajes únicos.  
-Siempre busco aprender algo nuevo, experimentar con estilos diferentes y mejorar en cada proyecto que hago.  
-
-🧩 Actualmente estoy aprendiendo **React**, **Java** y **Python**,  
-mientras fortalezco mis habilidades en **HTML, CSS y MySQL**.  
-
-🎧 En mis tiempos libres dibujo, diseño y desarrollo ideas que mezclan mis intereses por el rock, los videojuegos y el universo Vocaloid (sí, Miku 💙).
+Siempre busco aprender algo nuevo, experimentar con estilos diferentes y mejorar en cada proyecto que hago.
 
 ---
 
