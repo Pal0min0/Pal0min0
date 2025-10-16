@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hi there, Soy Santiago Palomino!</h1>
 
-![Banner](https://co.pinterest.com/pin/850828554641879649/)
+![Banner](https://i.pinimg.com/736x/19/f4/1c/19f41c5993d330b0b05e23774b300ce7.jpg)
 
 <p align="center">
 💻 Desarrollador web en formación<br>
